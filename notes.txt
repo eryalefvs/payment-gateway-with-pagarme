@@ -1,0 +1,8 @@
+** PROJETO DE INTEGRAÇÃO DE GATEWAY DE PAGAMENTOS
+
+* esse espaço serve para anotar dúvidas, novos comandos e tecnologias, serve como um diário do caminho traçado no projeto.
+
+----- A little about Express: Express is the more popular Node framework and underlying library for a number of other node frameworks.
+The Express pffers solutions for:
+-- Manage requests for different HTTP verbs at different URLs.
+-- 
